@@ -77,6 +77,14 @@ body {
     
 }
 
+.social-link-container a {
+    text-decoration: none;
+}
+
+.social-link-container a:visited {
+    text-decoration: none;
+}
+
 
 
 
